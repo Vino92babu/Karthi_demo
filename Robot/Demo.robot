@@ -49,14 +49,14 @@ Checkbox
     Sleep    1s
     
 
-# RadioButton
-#     Open Browser    https://rahulshettyacademy.com/AutomationPractice/    chrome
-#     Maximize Browser Window
-#     Sleep    2s
-#     Select Radio Button    radioButton    radio2
-#     Sleep    1s
-#     Select Radio Button    radioButton    radio1
-#     Select Radio Button    radioButton    radio3
+RadioButton
+    Open Browser    https://rahulshettyacademy.com/AutomationPractice/    chrome
+    Maximize Browser Window
+    Sleep    2s
+    Select Radio Button    radioButton    radio2
+    Sleep    1s
+    Select Radio Button    radioButton    radio1
+    Select Radio Button    radioButton    radio3
 
 # KeyboardAction
 #     Open Browser    https://the-internet.herokuapp.com/key_presses    chrome
